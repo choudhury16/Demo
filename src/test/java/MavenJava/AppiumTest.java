@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void BrowserAutomationAppium()
 	{
 		System.out.println("BrowserAutomationAppium");
+		System.out.println("BrowserAutomationAppium_git1");
+		System.out.println("BrowserAutomationAppium_git2");
 	}
 	@Test
 	public void ElementsUiAppium()
