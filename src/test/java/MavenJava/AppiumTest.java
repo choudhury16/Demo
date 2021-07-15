@@ -20,5 +20,7 @@ public class AppiumTest {
 		System.out.println("ElementsUiAppium_from asia developer 2");
 		System.out.println("ElementsUiAppium_from asia developer 3");
 		System.out.println("ElementsUiAppium_from asia developer 4");
+		System.out.println("ElementsUiAppium_from america developer 3");
+		System.out.println("ElementsUiAppium_from america developer 4");
 	}
 }
