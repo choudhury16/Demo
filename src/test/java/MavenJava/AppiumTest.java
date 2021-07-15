@@ -16,5 +16,9 @@ public class AppiumTest {
 	public void ElementsUiAppium()
 	{
 		System.out.println("ElementsUiAppium");
+		System.out.println("ElementsUiAppium_from asia developer 1");
+		System.out.println("ElementsUiAppium_from asia developer 2");
+		System.out.println("ElementsUiAppium_from asia developer 3");
+		System.out.println("ElementsUiAppium_from asia developer 4");
 	}
 }
